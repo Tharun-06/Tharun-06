@@ -16,13 +16,6 @@ I'm a **B.Tech 2nd-year student** with a strong passion for **Machine Learning**
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tharuntomy2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-tomy-93a5362b4/)
 
----
-
-## 📊 GitHub Stats
-
-![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharun-06&show_icons=true&theme=radical)
-
----
 
 ## 🛠️ Tools & Technologies
 
