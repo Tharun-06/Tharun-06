@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tharun Tomy
 
-I'm a **B.Tech 2nd-year student** with a strong passion for **Machine Learning** and **Deep Learning**. I enjoy applying my skills to solve **real-world problems** through intelligent model development.
+I'm a **B.Tech 3rd-year student** with a strong passion for **Machine Learning** and **Deep Learning**. I enjoy applying my skills to solve **real-world problems** through intelligent model development.
 
 - 🔧 Proficient in **Python**, **PyTorch**, and **Scikit-Learn**
 - 🤖 Passionate about building impactful ML/DL projects
